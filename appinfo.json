@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Lucas Fang",
+    "longName": "GC Original",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "GC Original",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0b0f0408-969e-482c-8a8f-35ed6269cc56",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
